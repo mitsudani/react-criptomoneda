@@ -3,7 +3,7 @@
 ## About the project
 
 This project is crypto exchange rate calculator, following Udemy's couse: "React-La Guía Completa: Hooks Context Redux MERN +15 Apps" by Juan Pablo De la torre Valdez.
-Hosted at:
+Hosted at: https://vibrant-hopper-9aba55.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
