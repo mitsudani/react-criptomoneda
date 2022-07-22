@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 ## About the project
 
 This project is crypto exchange rate calculator, following Udemy's couse: "React-La Guía Completa: Hooks Context Redux MERN +15 Apps" by Juan Pablo De la torre Valdez.
